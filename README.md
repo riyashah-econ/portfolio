@@ -10,4 +10,4 @@
 - [Delhi's Pink Ticket Policy Analysis](https://github.com/riyashah-econ/delhi-pink-ticket-policy-analysis)
 
 ## Dashboards
-- [World Bank Power BI Dashboard](available)
+- [Women in National Parliaments – Interactive Dashboard](available)
