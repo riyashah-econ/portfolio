@@ -10,4 +10,4 @@
 - [Delhi's Pink Ticket Policy Analysis](https://github.com/riyashah-econ/delhi-pink-ticket-policy-analysis)
 
 ## Dashboards
-- [Women in National Parliaments – Interactive Dashboard](available)
+- [Women in National Parliaments – Interactive Dashboard](https://github.com/riyashah-econ/Women-Representation-in-Parliaments)
